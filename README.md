@@ -10,6 +10,8 @@ Außerdem werden sind folgende Bibliothen erforderlich:
 - numpy (https://numpy.org/install/)
 - pygame (https://www.pygame.org/)
 
+Mit Python wird in der Regel der "Package Installer for Python (pip)" installiert. Mit diesem lassen sich die fehlenden Bibliotheken mit `pip install numpy` und `pip install pygame` installieren.
+
 ## Programmstart
 
 ```
