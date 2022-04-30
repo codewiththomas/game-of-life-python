@@ -7,10 +7,10 @@ In diesem Repository befindet sich eine sehr einfache, in Python implementierte 
 Das Script benötigt Python zum Ausführen. Dies kann kostenlos unter https://www.python.org/downloads/ heruntergeladen werden.
 
 Außerdem werden sind folgende Bibliothen erforderlich:
-- numpy (https://numpy.org/install/)
-- pygame (https://www.pygame.org/)
+- [numpy](https://numpy.org/install/)
+- [pygame](https://www.pygame.org/)
 
-Mit Python wird in der Regel der "Package Installer for Python (pip)" installiert. Mit diesem lassen sich die fehlenden Bibliotheken mit `pip install numpy` und `pip install pygame` installieren.
+Mit Python wird in der Regel der "[Package Installer for Python (pip)](https://pypi.org/project/pip/)" installiert. Mit diesem lassen sich die fehlenden Bibliotheken mit `pip install numpy` und `pip install pygame` über die Kommandozeile installieren.
 
 ## Programmstart
 
