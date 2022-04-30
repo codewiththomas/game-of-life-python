@@ -1,6 +1,6 @@
 # Conway’s Game of Life
 
-In diesem Repository befindet sich eine sehr einfache, in Python implementierte Version von Conways Spiel des Lebens (vgl. https://de.wikipedia.org/wiki/Conways_Spiel_des_Lebens).
+In diesem Repository befindet sich eine sehr einfache, in Python implementierte Version von [Conways Spiel des Lebens](https://de.wikipedia.org/wiki/Conways_Spiel_des_Lebens).
 
 ## Voraussetzungen
 
