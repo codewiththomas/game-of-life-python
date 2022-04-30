@@ -7,8 +7,8 @@ In diesem Repository befindet sich eine sehr einfache, in Python implementierte 
 Das Script benötigt Python zum Ausführen. Dies kann kostenlos unter https://www.python.org/downloads/ heruntergeladen werden.
 
 Außerdem werden sind folgende Bibliothen erforderlich:
-- numpy
-- pygame
+- numpy (https://numpy.org/install/)
+- pygame (https://www.pygame.org/)
 
 ## Programmstart
 
