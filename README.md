@@ -17,3 +17,6 @@ Mit Python wird in der Regel der "[Package Installer for Python (pip)](https://p
 ```
 python .\game_of_life.py
 ```
+
+## Weitere Implementierungen
+- [Game-of-Life in Javascript](https://github.com/codewiththomas/game-of-life-js) (kann direkt im Browser ausgeführt werden, keine Zusatzinstallationen erforderlich)
